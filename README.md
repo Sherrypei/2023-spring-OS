@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-# 2023-spring-OS
-=======
-# NTU-SP2022
 
-This is my system programming homework projects.
+# NTU-OS2023
+
+This is my operating system programming homework projects.
 
 1. csiebooking
     - file locking
@@ -28,4 +26,4 @@ This is my system programming homework projects.
     - alarm
     - setjmp / longjmp
     - select multiplexing
->>>>>>> master
+
